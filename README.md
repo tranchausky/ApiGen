@@ -142,3 +142,16 @@ parameters:
   # string, --memory-limit in CLI
   memoryLimit: '512M'
 ```
+
+
+Composer run
+get file .phar   
+https://github.com/ApiGen/ApiGen/releases   
+
+go to folder src   
+ 
+    php ..\apigen.phar .\ --output ..\docapi --workers 1
+
+
+
+
